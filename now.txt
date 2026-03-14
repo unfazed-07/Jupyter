@@ -1,8 +1,0 @@
-Name,Sex,Age,Team,Event,Medal
-A Dijiang,M,24,China,Basketball,NA
-A Lamusi,M,23,China,Judo,NA
-Gunnar Nielsen Aaby,M,24,Denmark,Football,NA
-Edgar Lindenau Aabye,M,34,Denmark/Sweden,Tug-Of-War,Gold
-Christine Jacoba Aaftink,F,21,Netherlands,Speed Skating,NA
-Christine Jacoba Aaftink,F,21,Netherlands,Speed Skating,NA
-Christine Jacoba Aaftink,F,25,Netherlands,Speed Skating,NA
